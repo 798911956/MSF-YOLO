@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>person1</folder>
+  <filename>000059</filename>
+  <path>E:/Make_label/picture/person1/000059.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>555</xmin>
+      <ymin>84</ymin>
+      <xmax>590</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+</annotation>

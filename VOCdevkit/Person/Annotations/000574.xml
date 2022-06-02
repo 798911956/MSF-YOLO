@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>person2</folder>
+  <filename>000101</filename>
+  <path>G:\yolov3_UAVshijiao\VOCdevkit\VOC2007\&#21407;&#22987;&#25968;&#25454;&#38598;\jpg\person2\000101.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>545</xmin>
+      <ymin>133</ymin>
+      <xmax>592</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+</annotation>
